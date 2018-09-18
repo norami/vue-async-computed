@@ -1,6 +1,6 @@
 {
-  "name": "vue-async-computed",
-  "version": "3.4.1",
+  "name": "vue-async-computed-non-debounce",
+  "version": "3.4.1-alpha1",
   "description": "Async computed properties for Vue",
   "main": "dist/vue-async-computed.js",
   "files": [
